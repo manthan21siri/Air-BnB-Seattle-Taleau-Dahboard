@@ -1,4 +1,6 @@
 # Air-BnB-Seattle-Taleau-Dahboard
+https://drive.google.com/file/d/1MqjU3YsvFnBiZK4P0UwJNcpA2TYpujbk/view?usp=drive_link
+
 # AirBnB Seattle Market Analysis — Tableau Dashboard
 
 ## Objective
